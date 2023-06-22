@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![mona-whisper](https://github.com/sunwavesun/sunwavesun/assets/41758274/5a2ffcf2-ddb1-4df1-89da-67cd66343cf4)
+
 <!--
 **sunwavesun/sunwavesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
